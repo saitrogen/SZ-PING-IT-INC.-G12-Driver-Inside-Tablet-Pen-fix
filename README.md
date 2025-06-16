@@ -1,7 +1,8 @@
 # Linux Fix for SZ PING-IT G12 / Bestor G12 Pen Tablet
 A complete solution to enable the full resolution and fix mapping issues for the `VID:08F2 PID:6811` series of graphics tablets on Linux (Xorg).
 
-![Tablet Working](https://i.imgur.com/w9N3g3D.png) <!-- You can replace this with a screenshot of your working setup! -->
+![bestor pen tab](https://github.com/user-attachments/assets/8ebff3b4-1749-4603-8ff4-1bf602478f5c)
+ <!-- You can replace this with a screenshot of your working setup! -->
 
 ## The Problem
 This tablet, when used on Linux, defaults to a low-resolution "sleep" mode. This results in two major issues:
@@ -25,7 +26,8 @@ sudo apt update && sudo apt install build-essential libusb-1.0-0-dev zenity
 ## Installation & Usage (Quick Start)
 
 **Step 1: Clone the Repository**
-```bash
+```bash![bestor pen tab](https://github.com/user-attachments/assets/0f5ff777-a34c-4f51-a1a4-dc21b4d12b45)
+
 git clone https://github.com/your-username/SZ-PING-IT-INC.-G12-Driver-Inside-Tablet-Pen-fix.git
 cd SZ-PING-IT-INC.-G12-Driver-Inside-Tablet-Pen-fix
 ```
